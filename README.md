@@ -10,5 +10,5 @@ Soy un desarrollador JavaScript salvadoreño dedicado con amor por la tecnologí
 Muy pronto... 🌟
 
 ## ¿Quieres conocerme? Hablemos:
-[otonielandrade7@gmail.com](otonielandrade7@gmail.com) | [Twitter](https://twitter.com/otonielandrade7) | [Instagram](https://www.instagram.com/otonielandrade7/)
+[otonielandrade7@gmail.com](mailto:otonielandrade7@gmail.com) | [Twitter](https://twitter.com/otonielandrade7) | [Instagram](https://www.instagram.com/otonielandrade7/)
 
