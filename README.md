@@ -1,16 +1,14 @@
-### Hi there 👋
+# ¡Hola! 👋 Me llamo Otoniel Andrade ✌
 
-<!--
-**otonielandrade7/otonielandrade7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador JavaScript salvadoreño dedicado con amor por la tecnología y el aprendizaje continuo. 👨‍💻
+ - Me gusta mucho JavaScript 💛
+ - Aunque actualmente me estoy especializando en JavaScript me encanta la programación en general. 🚀
+ - Tengo dominio sobre HTML, CSS y JavaScript 🌐
+ - He trabajado con [Vue.js 💚](https://vuejs.org/) y me encuentro aprendiendo [React 💙](https://es.reactjs.org/)
 
-Here are some ideas to get you started:
+## Proyectos:
+Muy pronto... 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ¿Quieres conocerme? Hablemos:
+[otonielandrade7@gmail.com](otonielandrade7@gmail.com) | [Twitter](https://twitter.com/otonielandrade7) | [Instagram](https://www.instagram.com/otonielandrade7/)
+
