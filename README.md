@@ -8,7 +8,8 @@ Soy un desarrollador JavaScript salvadoreño dedicado con amor por la tecnologí
 
 ## Proyectos:
 Muy pronto... 🌟
-
+## Lenguajes
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otonielandrade7&layout=compact)](https://github.com/otonielandrade7/)
 ## ¿Quieres conocerme? Hablemos:
 [otonielandrade7@gmail.com](mailto:otonielandrade7@gmail.com) | [Twitter](https://twitter.com/otonielandrade7) | [Instagram](https://www.instagram.com/otonielandrade7/)
 
