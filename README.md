@@ -8,8 +8,8 @@ Soy un desarrollador JavaScript salvadoreño dedicado con amor por la tecnologí
 
 ## Proyectos:
 ### Sitio web personal
-[Repositorio](https://github.com/otonielandrade7/personal-website)
-![enter image description here](https://lh3.googleusercontent.com/cwUr-_3U7W36ee8_Tu7Ij80MUEmWIszIpVk-MltaXaqyQG0CqaeYyGusWfXlUiwh_WdVaXOweZ6Ffg=w300)
+[Ir al repositorio](https://github.com/otonielandrade7/personal-website) | [Visitar sitio](https://otonielandrade.com)
+![Sitio web personal](https://i.ibb.co/3TDBj0N/chrome-AQLmenm-Wxl.png)
 ## Lenguajes
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otonielandrade7&layout=compact&theme=dracula)](https://github.com/otonielandrade7)
 ## ¿Quieres conocerme? Hablemos:
