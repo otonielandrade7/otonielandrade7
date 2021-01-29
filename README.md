@@ -1,3 +1,4 @@
+
 # ¡Hola! 👋 Me llamo Otoniel Andrade ✌
 
 Soy un desarrollador JavaScript salvadoreño dedicado con amor por la tecnología y el aprendizaje continuo. 👨‍💻
@@ -11,7 +12,7 @@ Soy un desarrollador JavaScript salvadoreño dedicado con amor por la tecnologí
 [Ir al repositorio](https://github.com/otonielandrade7/personal-website) | [Visitar sitio](https://otonielandrade.com)
 
 
-![Sitio web personal](https://i.ibb.co/3TDBj0N/chrome-AQLmenm-Wxl.png)
+![Sitio web personal](https://media.giphy.com/media/KTjhyYtHCxlGwjiZlC/giphy.gif)
 ## Lenguajes
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otonielandrade7&layout=compact&theme=dracula)](https://github.com/otonielandrade7)
 ## ¿Quieres conocerme? Hablemos:
