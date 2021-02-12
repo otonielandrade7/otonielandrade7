@@ -1,7 +1,7 @@
 
 # ¡Hola! 👋 Me llamo Otoniel Andrade ✌
 
-Soy un desarrollador JavaScript salvadoreño dedicado con amor por la tecnología y el aprendizaje continuo. 👨‍💻
+Soy un desarrollador frontend dedicado con amor por la tecnología y el aprendizaje continuo. 👨‍💻
  - Me gusta mucho JavaScript 💛
  - Aunque actualmente me estoy especializando en JavaScript me encanta la programación en general. 🚀
  - Tengo dominio sobre HTML, CSS y JavaScript 🌐
