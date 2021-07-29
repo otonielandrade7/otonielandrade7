@@ -3,9 +3,9 @@
 
 Soy un desarrollador frontend dedicado con amor por la tecnología y el aprendizaje continuo. 👨‍💻
  - Me gusta mucho JavaScript 💛
- - Aunque actualmente me estoy especializando en JavaScript me encanta la programación en general. 🚀
+ - Aunque actualmente me estoy especializando en JavaScript me encanta la programación en general y tambien manejo Python y PHP. 🚀
  - Tengo dominio sobre HTML, CSS y JavaScript 🌐
- - He trabajado con [Vue.js 💚](https://vuejs.org/) y me encuentro aprendiendo [React 💙](https://es.reactjs.org/)
+ - He trabajado con [Vue.js 💚](https://vuejs.org/) y [React 💙](https://es.reactjs.org/)
 
 ## Proyectos:
 ### Sitio web personal
