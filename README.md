@@ -14,7 +14,7 @@ Soy un desarrollador frontend dedicado con amor por la tecnología y el aprendiz
 
 ![Sitio web personal](https://media.giphy.com/media/KTjhyYtHCxlGwjiZlC/giphy.gif)
 ## Lenguajes
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otonielandrade7&layout=compact&theme=dracula)](https://github.com/otonielandrade7)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otonielandrade7&count_private=true&layout=compact&theme=dracula)](https://github.com/otonielandrade7)
 ## ¿Quieres conocerme? Hablemos:
 [otonielandrade7@gmail.com](mailto:otonielandrade7@gmail.com) | [Twitter](https://twitter.com/otonielandrade7) | [Instagram](https://www.instagram.com/otonielandrade7/)
 
